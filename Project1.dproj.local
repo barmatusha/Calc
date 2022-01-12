@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.015,=D:\DelphiProjects\Calc\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,=D:\DelphiProjects\Calc\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,D:\DelphiProjects\Calc\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,D:\DelphiProjects\Calc\CalculationBaseClass.pas=D:\DelphiProjects\Calc\CalculationBase.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,D:\DelphiProjects\Unit1.dfm=D:\DelphiProjects\Calc\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,=D:\DelphiProjects\Calc\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,D:\DelphiProjects\Calc\Calculation.pas=D:\DelphiProjects\Calc\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,D:\DelphiProjects\Calc\CalculationBase.pas=D:\DelphiProjects\Calc\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,D:\DelphiProjects\Project1.dproj=D:\DelphiProjects\Calc\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,D:\DelphiProjects\Unit1.pas=D:\DelphiProjects\Calc\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,=D:\DelphiProjects\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="CalculationBaseClass.pas"/>
+    <File Path="Calculation.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
